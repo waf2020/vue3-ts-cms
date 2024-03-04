@@ -40,5 +40,14 @@
     "hooks": {
       "pre-commit": "lint-staged"
     }
+  },
+  "lint-staged": {
+    "*.{js,jsx,vue}": [
+      "prettier --write ./src",
+      "eslint --ext .vue,.js,.jsx --fix ./src",
+      "git add"
+    ]
   }
+  
+
 }
