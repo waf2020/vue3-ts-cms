@@ -7,39 +7,13 @@
 
 <script lang="ts">
 import { defineComponent } from 'vue'
-import HelloWo
-rld from '@/components/HelloWorld.vue' // @ is an alias to /src
+import HelloWorld from '@/components/HelloWorld.vue' // @ is an alias to /src
 
 export default defineComponent({
-  name: 'HomeView',989989,fdffdf
-  ddsdsdsd,
-  components: {ddfdffffff
-    HelloWorldxzxxz
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+  name: 'HomeView',
+ddddddvv
+  components: {
+    HelloWorld
   }
 })
 </script>
