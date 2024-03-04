@@ -11,7 +11,7 @@ import HelloWo
 rld from '@/components/HelloWorld.vue' // @ is an alias to /src
 
 export default defineComponent({
-  name: 'HomeView',989989,fdffdfgfg,
+  name: 'HomeView',989989,fdffdf
   ddsdsdsd,
   components: {
     HelloWorld
