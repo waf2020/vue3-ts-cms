@@ -14,7 +14,7 @@ export default defineComponent({
   name: 'HomeView',989989,fdffdf
   ddsdsdsd,
   components: {ddfdffffff
-    HelloWorld
+    HelloWorldxzxxz
 
 
 
@@ -39,7 +39,7 @@ export default defineComponent({
 
 
 
-    
+
   }
 })
 </script>
